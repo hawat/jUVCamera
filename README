@@ -1,2 +1,6 @@
 Simple java library for linux V4L2 UVC webcams
 
+jUVCWebCam		NetBeans project with native part of the library
+jUVCWebCamTest		NetBeans project, simple app to show usage/test library
+pl.hawat.jUVCamera 	NetBeans project, java part of the library
+
